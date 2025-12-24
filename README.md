@@ -86,7 +86,6 @@ AJAX (atualizações em tempo real)
 ### ⚙️ Backend
 ```
 PHP 7.4+
-MySQL / MariaDB
 API REST personalizada
 Sistema de autenticação
 ```
@@ -110,7 +109,6 @@ Sistema de autenticação
 ### Pré-requisitos
 - Servidor web (Apache/Nginx)
 - PHP 7.4+
-- MySQL/MariaDB
 - Raspberry Pi com Python 3
 - Arduino/ESP8266
 
